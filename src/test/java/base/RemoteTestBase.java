@@ -21,7 +21,6 @@ public class RemoteTestBase {
 
         Configuration.browserSize = System.getProperty("browserSize");
         Configuration.browser = System.getProperty("browser", "chrome");
-        Configuration.browser = System.getProperty("browser", "opera");
         Configuration.browserVersion = System.getProperty("browserVersion");
 
 
