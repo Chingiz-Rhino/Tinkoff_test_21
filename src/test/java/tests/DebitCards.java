@@ -2,13 +2,15 @@ package tests;
 
 import base.RemoteTestBase;
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import pages.DebitCardPage;
 
 import static com.codeborne.selenide.logevents.SelenideLogger.step;
-
+@Tag("Debit")
 public class DebitCards extends RemoteTestBase {
     DebitCardPage debitCardPage = new DebitCardPage();
+
 
     @Test
     @DisplayName("Checking all debit cards page")
