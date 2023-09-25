@@ -11,25 +11,25 @@ public class DebitCardPage {
     SelenideElement
             // All Debit Card Page
             allDebitCardPageTap = $(".dbIWyAi99"),
-            allDebitCardPageResult = $(".ab20nj5Fo"),
+            allDebitCardPageResult = $(".abHK--A7Jz"),
     // Premium Debit Card Page
     premiumDebitCardPageTap = $(byText("Премиальные")),
-            premiumDebitCardPageResult = $(".ab20nj5Fo"),
+            premiumDebitCardPageResult = $(".abHK--A7Jz"),
 
     // Traveler Debit Card Page
     travelerDebitCardPageTap = $(byText("Путешественнику")),
-            travelerDebitCardPageResult = $(".ab20nj5Fo"),
+            travelerDebitCardPageResult = $(".abHK--A7Jz"),
 
     // Motorist Debit Card Page
     motoristDebitCardPageTap = $(byText("Автомобилисту")),
-            motoristDebitCardPageResult = $(".ab20nj5Fo"),
+            motoristDebitCardPageResult = $(".abHK--A7Jz"),
     // Gamer Debit Card Page
     gamerDebitCardPageTap = $(byText("Геймеру")),
-            gamerDebitCardPageResult = $(".ab20nj5Fo"),
+            gamerDebitCardPageResult = $(".abHK--A7Jz"),
 
     // Purchases Debit Card Page
     purchasesDebitCardPageTap = $(byText("Покупки")),
-            purchasesDebitCardPageResult = $(".ab20nj5Fo");
+            purchasesDebitCardPageResult = $(".abHK--A7Jz");
 
     public DebitCardPage openWebSite() {
         open("https://www.tinkoff.ru/");
