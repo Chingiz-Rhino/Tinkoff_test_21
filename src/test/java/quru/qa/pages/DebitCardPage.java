@@ -1,4 +1,4 @@
-package pages;
+package quru.qa.pages;
 
 import com.codeborne.selenide.SelenideElement;
 

@@ -1,10 +1,10 @@
-package tests;
+package quru.qa.tests;
 
-import base.RemoteTestBase;
+import quru.qa.base.RemoteTestBase;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
-import pages.DebitCardPage;
+import quru.qa.pages.DebitCardPage;
 
 import static com.codeborne.selenide.logevents.SelenideLogger.step;
 @Tag("Debit")
