@@ -10,7 +10,7 @@ import static com.codeborne.selenide.Selenide.open;
 public class DebitCardPage {
     SelenideElement
             // All Debit Card Page
-            allDebitCardPageTap = $(".abf4kMOPZ"),
+            allDebitCardPageTap = $(".dbIWyAi99"),
             allDebitCardPageResult = $(".ab20nj5Fo"),
     // Premium Debit Card Page
     premiumDebitCardPageTap = $(byText("Премиальные")),
