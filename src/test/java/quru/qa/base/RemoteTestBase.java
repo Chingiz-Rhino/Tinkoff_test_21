@@ -18,6 +18,7 @@ public class RemoteTestBase {
     static void beforeAll() {
         Configuration.baseUrl = "https://www.tinkoff.ru/";
         Configuration.pageLoadStrategy = "eager";
+        Configuration.browserSize = "1920x1080";
 
         Configuration.browserSize = System.getProperty("browserSize");
         Configuration.browser = System.getProperty("browser", "chrome");
