@@ -83,7 +83,7 @@ gradle clean test -Denv=debit
 </p>
 
 ____
-## <img alt="Allure" height="25" src="images/logo/Telegram.svg" width="25"/></a> Уведомление в Telegram при помощи бота
+## <img alt="Allure" height="25" src="imeges/logo/telegram.jpg" width="25"/></a> Уведомление в Telegram при помощи бота
 ____
 <p align="center">  
 <img title="Allure Overview Dashboard" src="imeges/logo/telegram_push.png" width="550">  
