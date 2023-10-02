@@ -82,6 +82,14 @@ gradle clean test -Denv=debit
 <img title="Allure Graphics3" src="imeges/logo/graphs3.png" width="850"> 
 </p>
 
+____
+## <img alt="Allure" height="25" src="images/logo/Telegram.svg" width="25"/></a> Уведомление в Telegram при помощи бота
+____
+<p align="center">  
+<img title="Allure Overview Dashboard" src="imeges/logo/telegram_push.png" width="550">  
+</p>
+
+----
 ## <img alt="Selenoid" height="25" src="imeges/logo/seleonoidsvg.png" width="25"/></a> Видеопример выполнения теста на Selenoid
 ____
 <p align="center">
